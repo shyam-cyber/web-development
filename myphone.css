@@ -1,0 +1,19 @@
+#header h1{
+    color : rgb(219, 69, 94);
+    font-size: 32 px;
+ 
+ }
+#header p{
+    color : blue;
+    font-size: 16px;
+}
+.phone-category h2{
+        color : red;
+        font-size : 24 px;
+
+}
+#contact-us h2{
+    color : red;
+    font-size: 24px;
+}
+
